@@ -58,7 +58,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80&fontColor=ffffff"/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="800"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/snake.svg" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/snake.svg" alt="Snake animation"/>

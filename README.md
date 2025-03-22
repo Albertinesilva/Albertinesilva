@@ -21,14 +21,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Albertinesilva&theme=dracula&row=1&no-bg=true&column=7&margin-w=20&margin-h=20" />
 </p>
 
-<p align="center">
-  <a href="https://www.instagram.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://stackshare.io/20191tadssaj0026/my-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge">
-  </a>
-</p>
+<div align="center">
+  
+| [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com) | [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge)](https://stackshare.io/20191tadssaj0026/my-stack) |
+|---|---|
+
+</div>
 
 ### Main skills:
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;

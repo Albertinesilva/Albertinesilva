@@ -23,8 +23,8 @@
 
 <div align="center">
   
-| [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com) | [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge)](https://stackshare.io/20191tadssaj0026/my-stack) |
-|---|---|
+| [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com) | [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge)](https://stackshare.io/20191tadssaj0026/my-stack) | [![Livros Indicados](https://img.shields.io/badge/Livros_Indicados-%230A66C2?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/Albertinesilva/livros-indicacao) |
+|---|---|---|
 
 </div>
 

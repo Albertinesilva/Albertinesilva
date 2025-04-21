@@ -62,6 +62,14 @@
 
 <img src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/snake.svg" alt="Snake animation"/>
 
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/pacman-contribution-graph.svg">
+</picture>
+-->
+
 <div align="center">
   
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-backend-java-spring-boot/) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com) |  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertinesilva.17@gmail.com) | [![Tech-Stack](http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge&logo=stackshare&logoColor=white)](https://stackshare.io/20191tadssaj0026/my-stack) | [![Recommended Books](https://img.shields.io/badge/Recommended_Books-%230A66C2?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/Albertinesilva/livros-indicacao)

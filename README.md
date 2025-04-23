@@ -75,12 +75,11 @@
 
 ---
 
-### Pacman Graph
-
-Se não visualizar a imagem abaixo, tente forçar o recarregamento (Ctrl+F5) ou aguarde a geração automática.
-
-<img alt="pacman" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/pacman.svg">
-<img alt="pacman fallback" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/pacman-contribution-graph.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/pacman.svg">
+</picture>
 
 ---
 

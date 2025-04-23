@@ -75,7 +75,12 @@
 
 ---
 
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/pacman.svg">
+### Pacman Graph
+
+Se não visualizar a imagem abaixo, tente forçar o recarregamento (Ctrl+F5) ou aguarde a geração automática.
+
+<img alt="pacman" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/pacman.svg">
+<img alt="pacman fallback" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/pacman-contribution-graph.svg">
 
 ---
 

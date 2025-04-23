@@ -1,5 +1,3 @@
-name: Generate pacman animation
-
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
@@ -23,11 +21,25 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: rename files to pacman.svg and pacman-dark.svg
+      - name: ensure dist folder and fallback to pacman.svg
         run: |
           mkdir -p dist
-          mv pacman-contribution-graph.svg dist/pacman.svg
-          mv pacman-contribution-graph-dark.svg dist/pacman-dark.svg
+
+          # Se pacman.svg não existir, renomeia o gerado
+          if [ ! -f dist/pacman.svg ]; then
+            echo "Renomeando para pacman.svg..."
+            mv pacman-contribution-graph.svg dist/pacman.svg || echo "Arquivo não encontrado"
+          else
+            echo "pacman.svg já existe, não será sobrescrito."
+          fi
+
+          # Mesmo para o dark
+          if [ ! -f dist/pacman-dark.svg ]; then
+            echo "Renomeando para pacman-dark.svg..."
+            mv pacman-contribution-graph-dark.svg dist/pacman-dark.svg || echo "Arquivo não encontrado"
+          else
+            echo "pacman-dark.svg já existe, não será sobrescrito."
+          fi
 
       - name: push pacman.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

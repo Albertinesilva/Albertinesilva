@@ -2,7 +2,7 @@ name: Deploy Snake and Pacman SVGs
 
 on:
   schedule: # Executa a cada 12 horas
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch: # Permite execução manual
   push:
     branches:
@@ -16,13 +16,13 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # Checkout com fetch-depth 0 para pegar todo o histórico de commits
+      # Passo 1: Checkout do repositório com histórico completo
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
-      # Gerar Snake com base nas contribuições
+      # Passo 2: Gerar Snake animado
       - name: Generate snake contribution graph
         uses: Platane/snk/svg-only@v3
         with:
@@ -30,7 +30,7 @@ jobs:
           outputs: |
             dist/snake.svg?palette=github-dark
 
-      # Gerar Pacman com base nas contribuições
+      # Passo 3: Gerar Pacman animado
       - name: Generate pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
@@ -38,7 +38,7 @@ jobs:
           outputs: |
             dist/pacman.svg
 
-      # Deploy para a branch output
+      # Passo 4: Deploy para a branch 'output'
       - name: Deploy SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
@@ -46,7 +46,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
 # name: Deploy Snake and Pacman SVGs
 
 # on:

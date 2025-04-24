@@ -71,7 +71,7 @@
 
 ---
 
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/snake.svg">
+<img alt="Snake animation" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/snake.svg">
 
 ---
 

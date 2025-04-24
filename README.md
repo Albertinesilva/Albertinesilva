@@ -71,11 +71,7 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/snake-dark.svg?palette=github-dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/snake.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/snake.svg">
-</picture>
 
 ---
 <!--

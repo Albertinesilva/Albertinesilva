@@ -2,8 +2,8 @@ name: Generate Snake and Pacman Graphs
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Execute a cada 6 horas
-  workflow_dispatch:  # Execute manualmente, se necessário
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -32,7 +32,7 @@ jobs:
             dist/pacman.svg
             dist/pacman-dark.svg?palette=github-dark
 
-      - name: Push to output branch
+      - name: Push all files to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

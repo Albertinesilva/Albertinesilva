@@ -2,8 +2,8 @@ name: Generate Snake and Pacman Graphs
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
+    - cron: "0 */6 * * *" # Executa a cada 6 horas
+  workflow_dispatch: # Permite executar manualmente se necessário
 
 jobs:
   generate:
@@ -13,9 +13,11 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      # Passo 1: Verificar o repositório
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Passo 2: Gerar o gráfico Snake
       - name: Generate snake graph
         uses: Platane/snk/svg-only@v3
         with:
@@ -24,6 +26,7 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
+      # Passo 3: Gerar o gráfico Pacman
       - name: Generate pacman graph
         uses: abozanona/pacman-contribution-graph@main
         with:
@@ -32,7 +35,8 @@ jobs:
             dist/pacman.svg
             dist/pacman-dark.svg?palette=github-dark
 
-      - name: Push all files to output branch
+      # Passo 4: Push para a branch 'output'
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

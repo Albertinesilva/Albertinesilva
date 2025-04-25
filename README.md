@@ -53,12 +53,26 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/BEPb/count.svg">  
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Albertinesilva}/count.svg" /></p> 
+</div>
 
-counting of visitors to this page in this section started from May 8, 2022
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<script>
+  // Função para formatar a data no formato "Month Day, Year"
+  function formatStartDate() {
+    const startDate = new Date('2025-05-08'); // Data inicial fixa
+    const options = { month: 'long', day: 'numeric', year: 'numeric' };
+    return startDate.toLocaleDateString('en-US', options);
+  }
+  
+  // Exibe a data formatada dinamicamente
+  document.write(`counting of visitors to this page in this section started from ${formatStartDate()}`);
+</script>
 
+<a href="http://s01.flagcounter.com/more/ap7">
+  <img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_1/labels_1/pageviews_1/flags_1/percent_1/" alt="Flag Counter" border="0">
+</a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80&fontColor=ffffff"/>
 

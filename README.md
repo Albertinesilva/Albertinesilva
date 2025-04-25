@@ -92,6 +92,7 @@
 
 <!-- Belarus - My Home-->
 
+```geojson
 {
   "type": "FeatureCollection",
   "features": [
@@ -105,25 +106,40 @@
         "type": "Polygon",
         "coordinates": [
           [
-            [-73.987235, -33.768377],
-            [-34.729993, -33.768377],
-            [-34.729993, 5.271786],
-            [-73.987235, 5.271786],
-            [-73.987235, -33.768377]
+            [
+              -73.987235,
+              -33.768377
+            ],
+            [
+              -34.729993,
+              -33.768377
+            ],
+            [
+              -34.729993,
+              5.271786
+            ],
+            [
+              -73.987235,
+              5.271786
+            ],
+            [
+              -73.987235,
+              -33.768377
+            ]
           ]
         ]
       }
     }
   ]
 }
+```
 
 ---
 
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5ldGlrdDR2dDlyaTI3eHpueGNsbTl5cTRoazJ2N2p2MTJ6ZHQ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AsuCf15CIj0Va/giphy.gif" width="150" alt="Naruto hokage" />
 
 > _"Enquanto você estiver com vontade de correr atrás dos seus sonhos... ninguém poderá te parar."_ 🔥  
-> — 🗡️**Naruto Uzumaki**
-> <br>
+> — 🗡️**Naruto Uzumaki** > <br>
 
 ---
 

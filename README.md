@@ -106,8 +106,8 @@
         "type": "Polygon",
         "coordinates": [
           [
-            [-73.99, 5.27],   // Noroeste do Brasil
-            [-34.73, -33.77]  // Sudeste do Brasil
+            [-73.99, 5.27],  
+            [-34.73, -33.77]  
           ]
         ]
       }

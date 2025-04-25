@@ -1,3 +1,12 @@
+<div align="center">
+  
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-backend-java-spring-boot/) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com) |  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertinesilva.17@gmail.com) | [![Tech-Stack](http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge&logo=stackshare&logoColor=white)](https://stackshare.io/20191tadssaj0026/my-stack) | [![Recommended Books](https://img.shields.io/badge/Recommended_Books-%230A66C2?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/Albertinesilva/livros-indicacao)
+|---|---|---|---|---|
+
+</div>
+
+---
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Albert+Silva&fontSize=30&fontColor=fff&animation=twinkling&fontAligni=35"/>
 
 <div align="center">
@@ -52,15 +61,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-
---- 
-
-<div align="center">
-  
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-backend-java-spring-boot/) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com) |  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertinesilva.17@gmail.com) | [![Tech-Stack](http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge&logo=stackshare&logoColor=white)](https://stackshare.io/20191tadssaj0026/my-stack) | [![Recommended Books](https://img.shields.io/badge/Recommended_Books-%230A66C2?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/Albertinesilva/livros-indicacao)
-|---|---|---|---|---|
-
-</div>
 
 ---
 

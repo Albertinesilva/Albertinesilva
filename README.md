@@ -81,6 +81,11 @@
 
 ---
 
+<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=Albertinesilva" width="auto"></img>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Albertinesilva&show-other-skills=true" width="auto"></img>
+
+---
+
 <!-- dark snake -->
 ![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake-dark.svg)
 

@@ -82,7 +82,7 @@
 ---
 
 <!-- dark snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake-dark.svg)
+![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake-dark.svg)
 
 ---
 

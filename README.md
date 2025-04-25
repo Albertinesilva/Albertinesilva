@@ -75,7 +75,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/snake.svg" alt="Snake animation"/>
+[![Albertinesilva's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Albertinesilva&theme=github-compact)](https://github.com/Albertinesilva/github-readme-activity-graph)
 
 ---
 

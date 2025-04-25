@@ -94,7 +94,7 @@
 
 > _"Enquanto você estiver com vontade de correr atrás dos seus sonhos... ninguém poderá te parar."_ 🔥  
 > — 🗡️**Naruto Uzumaki**
-> <br>
+<br>
 
 ---
 

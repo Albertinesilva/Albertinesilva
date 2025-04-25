@@ -98,9 +98,9 @@
   "features": [
     {
       "type": "Feature",
-      "id": "BR",
+      "id": "1",
       "properties": {
-        "name": "Brazil"
+        "name": "0"
       },
       "geometry": {
         "type": "Polygon",

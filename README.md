@@ -92,35 +92,30 @@
 
 <!-- Belarus - My Home-->
 
-```geojson
 {
   "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
-      "id": 1,
+      "id": "BR",
       "properties": {
-        "ID": 0
+        "name": "Brazil"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
-            [
-              23.5,
-              53.9
-            ],
-            [
-              32.6,
-              52.6
-            ]
+            [-73.987235, -33.768377],
+            [-34.729993, -33.768377],
+            [-34.729993, 5.271786],
+            [-73.987235, 5.271786],
+            [-73.987235, -33.768377]
           ]
         ]
       }
     }
   ]
 }
-```
 
 ---
 

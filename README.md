@@ -74,6 +74,12 @@
 
 ---
 
+<!--   profile-green-animate -->
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
 <!-- dark snake -->
 
 ![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake-dark.svg)
@@ -81,12 +87,6 @@
 ---
 
 <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/pacman.svg">
-
----
-
-<!--   profile-green-animate -->
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 

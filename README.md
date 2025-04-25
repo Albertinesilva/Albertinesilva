@@ -96,15 +96,14 @@
 > — 🗡️**Naruto Uzumaki**
 > <br>
 
-
 ---
 
-<div align="center">
+<!-- <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Albertinesilva}/count.svg" /></p> 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80&fontColor=ffffff"/> -->
 
 <!-- counting of visitors to this page in this section started from May 8, 2025
 <a href="http://s01.flagcounter.com/more/ap7">

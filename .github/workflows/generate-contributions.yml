@@ -11,18 +11,18 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    # timeout-minutes: 10
+    timeout-minutes: 10
 
     steps:
       # Snake animation
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
+        id: snake-gif
         with:
           github_user_name: Albertinesilva
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
       # Pacman animation
       - name: Generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main

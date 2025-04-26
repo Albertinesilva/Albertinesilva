@@ -79,6 +79,11 @@
 
 ---
 
+<!-- Snake -->
+![GitHub activity snake](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/pacman.svg">
 
 ---

@@ -11,10 +11,10 @@ on:
   # allows to manually run the job at any time
   workflow_dispatch:
 
-  # run on every push on the master branch
+  # run on every push on the main branch
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
@@ -30,6 +30,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          speed: 100 # <--- velocidade diminuída aqui
+
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: Push github-contribution-grid-snake.svg to the output branch

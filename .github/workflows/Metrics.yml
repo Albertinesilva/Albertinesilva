@@ -34,7 +34,7 @@ jobs:
           plugin_achievements_display: detailed # detailed achievements info
 
           plugin_calendar: yes # displays yearly activity
-          plugin_calendar_limit: 1 # show activity for the last 11 years
+          plugin_calendar_limit: 2 # show activity for the last 11 years
 
           plugin_habits: yes # daily and weekly activity
           plugin_habits_facts: yes # weekly activity analysis
@@ -44,7 +44,7 @@ jobs:
           plugin_licenses_setup: npm ci # detailed license info
 
           plugin_skyline: yes # 3D skyline activity plugin
-          plugin_skyline_year: 2023 # selected year
+          plugin_skyline_year: 2022 # selected year
           plugin_skyline_frames: 120 # number of frames
           plugin_skyline_quality: 1 # quality 1 = best
 

@@ -34,7 +34,7 @@ jobs:
           plugin_achievements_display: detailed # detailed achievements info
 
           plugin_calendar: yes # displays yearly activity
-          plugin_calendar_limit: 2 # show activity for the last 11 years
+          plugin_calendar_limit: 3 # show activity for the last 11 years
 
           plugin_habits: yes # daily and weekly activity
           plugin_habits_facts: yes # weekly activity analysis

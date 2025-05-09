@@ -61,7 +61,7 @@
 
 ---
 
-![Gatos_Estudando](neurocats_FULL.png)
+![Gatos_Estudando](neurocatsFULL.png)
 
 ---
 

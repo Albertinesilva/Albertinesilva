@@ -1,14 +1,13 @@
-<div align="center">
+<div align="center"> <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50" />
   
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-backend-java-spring-boot/) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com) |  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertinesilva.17@gmail.com) | [![Tech-Stack](http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge&logo=stackshare&logoColor=white)](https://stackshare.io/20191tadssaj0026/my-stack) | [![Recommended Books](https://img.shields.io/badge/Recommended_Books-%230A66C2?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/Albertinesilva/livros-indicacao)
+|[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-backend-java-spring-boot/) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com) |  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertinesilva.17@gmail.com) | [![Tech-Stack](http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge&logo=stackshare&logoColor=white)](https://stackshare.io/20191tadssaj0026/my-stack) | [![Recommended Books](https://img.shields.io/badge/Recommended_Books-%230A66C2?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/Albertinesilva/livros-indicacao)
 |---|---|---|---|---|
 
-</div>
-
+</div>                 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Albert+Silva&fontSize=30&fontColor=fff&animation=twinkling&fontAligni=35"/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="65" height="65"/>
+   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="65" height="65"/>:octocat:
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Albert+Silva+de+Jesus;I'm+43+years+old;I+am+from+Brasil,+BA;I+study+analysis+and+systems+development+at+IFBA;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -62,7 +61,7 @@
 
 ---
 
-<div align="center">
+:octocat: <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="815"/>
 </div>
 
@@ -72,11 +71,14 @@
 
 ![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake.svg)
 
+:octocat:
 ---
 
 <!--   profile-green-animate -->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+:octocat:
 
 ---
 
@@ -132,7 +134,7 @@
 ---
 
 <div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
+  <br><p align="centre"><b> <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30" />  Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Albertinesilva}/count.svg" /></p> 
 </div>
 

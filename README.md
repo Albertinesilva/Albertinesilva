@@ -61,7 +61,9 @@
 
 ---
 
-<img src="neurocatsFULLCopia.PNG" alt="Gatos_Estudando" width="70%" height="450">
+<div align="center">
+  <img src="neurocatsFULLCopia.PNG" alt="Gatos_Estudando" width="70%" height="450">
+</div>
 
 ---
 

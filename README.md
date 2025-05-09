@@ -59,7 +59,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
-<img alt="Gatos_estudando" src="neurocats_FULL.PNG"/>
+![Gatos_estudando](neurocats_FULL.PNG)
 
 ---
 

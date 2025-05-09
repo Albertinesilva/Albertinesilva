@@ -30,10 +30,9 @@
 ---
 
 <p align="center">
-  <img src="neurocatsFULLCopia.PNG" alt="Gatos Estudando" width="60%" height="550">
+  <img src="neurocatsFULLCopia.PNG" alt="Gatos Estudando" width="30%" height="350">
 </p>
-
-### Main skills:
+<h2><strong>Main skills:</strong></h2>
 
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/-c%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=blue&labelColor=0D1117)&nbsp;

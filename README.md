@@ -61,7 +61,7 @@
 
 ---
 
-<img src="neurocatsFULL.png" alt="Gatos_Estudando" width="100%" height="600">
+<img src="neurocatsFULL-copia.png" alt="Gatos_Estudando" width="70%" height="450">
 
 ---
 

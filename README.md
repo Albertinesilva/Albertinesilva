@@ -61,6 +61,10 @@
 
 ---
 
+![Gatos_Estudando](neurocats_FULL.png)
+
+---
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="815"/>
 </div>
@@ -112,10 +116,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
   <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)">
 </picture>
-
-<br>
-  <sub><a href="https://github.com/CameronFoxly" style="color: gray; text-decoration: none;">Art by Cameron Foxly</a></sub>
-</p>
 
 :octocat:
 

@@ -69,7 +69,20 @@
 
 ---
 
-![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  
+| ![Daily Work](https://i.imgur.com/uhZdH9C.gif) | ![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) |
+|:--:|:--:|
+
+<p align="center">
+  <img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" height="180px" />
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" height="180px" />
+</p>
+
+
+</p>
+
 
 ---
 

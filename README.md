@@ -70,11 +70,11 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" height="180px" />
+  <img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" height="170px" />
   &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" height="180px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" height="170px" />
   &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Thinking GIF" height="180px" />
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Thinking GIF" height="170px" />
 </p>
 
 <p align="center">

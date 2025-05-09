@@ -7,7 +7,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Albert+Silva&fontSize=30&fontColor=fff&animation=twinkling&fontAligni=35"/>
 
 <div align="center">
-   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="65" height="65"/>:octocat:
+   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="65" height="65"/> <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Albert+Silva+de+Jesus;I'm+43+years+old;I+am+from+Brasil,+BA;I+study+analysis+and+systems+development+at+IFBA;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -90,13 +90,19 @@
 
 ![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake-dark.svg)
 
+:octocat: 
+
 ---
 
 <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/pacman-contribution-graph-dark.svg">
 
+:octocat: 
+
 ---
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
+
+:octocat: 
 
 ---
 
@@ -126,6 +132,8 @@
 }
 
 ```
+
+:octocat: 
 
 ---
 

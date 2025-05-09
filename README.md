@@ -61,7 +61,7 @@
 
 ---
 
-![Gatos_Estudando](neurocats_FULL.png)
+<img src="neurocatsFULL.png" alt="Gatos_Estudando" width="100%" height="600">
 
 ---
 

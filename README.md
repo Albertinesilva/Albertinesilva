@@ -77,18 +77,6 @@
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Thinking GIF" height="160px" />
 </p>
 
-
-<p align="center">
-  <img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" height="180px" />
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" height="180px" />
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="GIF" height="180px"/>
-</p>
-
-
-</p>
-
-
 ---
 
 <!-- <img alt="Snake animation" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake.svg"> -->

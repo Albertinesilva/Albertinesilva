@@ -30,7 +30,7 @@
 ---
 
 <p align="center">
-  <img src="neurocatsFULLCopia.PNG" alt="Gatos Estudando" width="50%" height="500">
+  <img src="neurocatsFULLCopia.PNG" alt="Gatos Estudando" width="60%" height="550">
 </p>
 
 ### Main skills:

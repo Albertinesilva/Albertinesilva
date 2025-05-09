@@ -71,13 +71,19 @@
 
 <p align="center">
   
+<p align="center">
+
 | ![Daily Work](https://i.imgur.com/uhZdH9C.gif) | ![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) |
 |:--:|:--:|
+| ![Thinking GIF](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif) |  |
+
+</p>
 
 <p align="center">
   <img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" height="180px" />
   &nbsp;&nbsp;
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" height="180px" />
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="GIF" height="180px"/>
 </p>
 
 

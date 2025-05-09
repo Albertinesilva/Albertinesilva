@@ -7,7 +7,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Albert+Silva&fontSize=30&fontColor=fff&animation=twinkling&fontAligni=35"/>
 
 <div align="center">
-   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="65" height="65"/> <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="40" />
+   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="65" height="65"/> <img src="https://github.githubassets.com/images/icons/emoji/neurocats_FULL.PNG" width="40" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Albert+Silva+de+Jesus;I'm+43+years+old;I+am+from+Brasil,+BA;I+study+analysis+and+systems+development+at+IFBA;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -58,8 +58,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-
-![Gatos_estudando](neurocats_FULL.PNG)
 
 ---
 
@@ -174,7 +172,7 @@
 ---
 
 <div align="center">
-  <br><p align="centre"><b> <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30" />  Visitors Count</b></p>  
+  <br><p align="centre"><b> <img src="securitocat.png" width="50" />  Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Albertinesilva}/count.svg" /></p> 
 </div>
 

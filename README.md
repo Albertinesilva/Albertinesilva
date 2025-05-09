@@ -71,7 +71,7 @@
 
 ![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake.svg)
 
-:octocat:
+
 ---
 
 <!--   profile-green-animate -->

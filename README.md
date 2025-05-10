@@ -66,8 +66,8 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="815"/>
 </div>
-
-:octocat: 
+ 
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
 
 ---
 
@@ -79,7 +79,7 @@
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Thinking GIF" height="160px" />
 </p>
 
-:octocat:
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
 
 ---
 
@@ -88,7 +88,7 @@
 ![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake.svg)
 
 
-:octocat: 
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px"> 
 
 ---
 
@@ -96,7 +96,7 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-:octocat:
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
 
 ---
 
@@ -104,7 +104,7 @@
 
 ![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake-dark.svg)
 
-:octocat: 
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px"> 
 
 ---
 
@@ -114,20 +114,21 @@
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
   <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)">
 </picture>
+</p>
 
-:octocat:
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
 
 ---
 
 <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/pacman-contribution-graph-dark.svg">
 
-:octocat: 
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px"> 
 
 ---
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
-:octocat: 
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px"> 
 
 ---
 
@@ -157,7 +158,7 @@
 }
 
 ```
-:octocat: 
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px"> 
 
 ---
 

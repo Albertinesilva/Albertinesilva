@@ -27,11 +27,10 @@
 </p>
 
 ---
-
 <div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
-  <img src="assets/img/neurocatsFULL.png" alt="Gatos Estudando" width="400px" height="280">
+  <img src="assets/img/neurocatsFULL.png" alt="Gatos Estudando" width="45%" height="280">
   
-  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="30px">
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="45px">
   
   <img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" style="width: 100%; max-width: 400px; height: auto;">
 </div>
@@ -76,65 +75,43 @@
 </div>
 
 ---
+<div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
+  <img src="assets/img/tentocats.jpg" alt="Gatos Estudando" width="45%" height="280px">
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="assets/img/tentocats.jpg" alt="Gatos Estudando" width="400px" height="280px">
-    </td>
-    <td>
-      &nbsp;&nbsp;
-      <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
-    </td>
-    <td>
-       <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Thinking GIF" width="100%" height="100%" />
-    </td>
-  </tr>
-</table>
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="45px">
+
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Thinking GIF" style="width: 100%; max-width: 400px; height: auto;">
+</div>
 
 ---
 
 <!-- <img alt="Snake animation" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake.svg"> -->
 ![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake.svg)
-<p align="center">
-  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
-</p>
 
+---
 <!--   profile-green-animate -->  
 ![Profile-3d](./profile-3d-contrib/profile-night-rainbow.svg)
-<p align="center">
-  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
-</p>
 
+---
 <!-- dark snake -->
 ![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake-dark.svg)
 
 ---
+<div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
+  <img src="assets/img/droidtocat.png" alt="Gatos Estudando" width="45%" height="360px">
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="assets/img/droidtocat.png" alt="Gatos Estudando" width="400px" height="360px">
-    </td>
-    <td>
-      &nbsp;&nbsp;
-      <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
-    </td>
-    <td>
-       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer" width="100%" height="100%" />
-    </td>
-  </tr>
-</table>
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="45px">
+
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer" style="width: 100%; max-width: 400px; height: auto;">
+</div>
 
 ---
-
 <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/pacman-contribution-graph-dark.svg">
 
 ---
-
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 <p align="center">
-  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="45px">
 </p>
 
 ---

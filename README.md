@@ -1,4 +1,4 @@
-<div align="center"> <img src="assets/img/securityknightocat.PNG" width="70">
+<div align="center"> <img src="assets/img/securityknightocat.ico" width="70">
   
 |[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-backend-java-spring-boot/) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com) |  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertinesilva.17@gmail.com) | [![Tech-Stack](http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge&logo=stackshare&logoColor=white)](https://stackshare.io/20191tadssaj0026/my-stack) | [![Recommended Books](https://img.shields.io/badge/Recommended_Books-%230A66C2?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/Albertinesilva/livros-indicacao)
 |---|---|---|---|---|
@@ -24,7 +24,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Albertinesilva&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Albertinesilva&theme=dracula&row=1&no-bg=true&column=7&margin-w=20&margin-h=20" />
-  <p align="center"><img src="assets/img/neurocatsFULLCopia.PNG" alt="Gatos Estudando" width="20%" height="200"></p> 
+  <p align="center"><img src="assets/img/neurocatsFULL.ico" alt="Gatos Estudando" width="20%" height="200"></p> 
 </p>
 
 ---
@@ -159,7 +159,7 @@
 
 ---
 <div align="center">
-  <br><p align="centre"><b> <img src="assets/img/securitocat.png" width="50" />  Visitors Count</b></p>  
+  <br><p align="centre"><b> <img src="assets/img/securitocat.ico" width="50" />  Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Albertinesilva}/count.svg" /></p> 
 </div>
 

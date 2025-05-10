@@ -68,7 +68,6 @@
 <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
 
 ---
-
 <p align="center">
   <img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" height="160px" />
   &nbsp;&nbsp;
@@ -79,26 +78,21 @@
 <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
 
 ---
-
 <!-- <img alt="Snake animation" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake.svg"> -->
-
-<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px"> ![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake.svg)
-
+![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake.svg)
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px"> 
 
 ---
 <!--   profile-green-animate -->  
-![Profile-3d](./profile-3d-contrib/profile-night-rainbow.svg)<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px"> 
+![Profile-3d](./profile-3d-contrib/profile-night-rainbow.svg)
 <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
 
 ---
-
 <!-- dark snake -->
-
 ![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake-dark.svg)
 <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px"> 
 
 ---
-
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
@@ -106,13 +100,11 @@
   <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)">
 </picture>
 </p>
-
 <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
 
 ---
 
 <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/pacman-contribution-graph-dark.svg">
-
 <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px"> 
 
 ---

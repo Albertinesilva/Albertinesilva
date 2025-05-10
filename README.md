@@ -31,7 +31,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="assets/img/neurocatsFULL.png" alt="Gatos Estudando" width="100%" height="280">
+      <img src="assets/img/neurocatsFULL.png" alt="Gatos Estudando" width="100%" height="250">
     </td>
     <td>
       &nbsp;&nbsp;
@@ -87,7 +87,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="assets/img/neurocatsFULL.png" alt="Gatos Estudando" width="100%" height="280">
+      <img src="assets/img/tentocats.jpg" alt="Gatos Estudando" width="100%" height="280">
     </td>
     <td>
       &nbsp;&nbsp;
@@ -121,7 +121,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="assets/img/neurocatsFULL.png" alt="Gatos Estudando" width="100%" height="280">
+      <img src="assets/img/droidtocat.png" alt="Gatos Estudando" width="100%" height="280">
     </td>
     <td>
       &nbsp;&nbsp;

@@ -23,7 +23,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Albertinesilva&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center">
-  <img src="https://octodex.github.com/images/carlostocat.gif" alt="Carlostocat" width="90" height="110"><img src="https://github-profile-trophy.vercel.app/?username=Albertinesilva&theme=dracula&row=1&no-bg=true&column=7&margin-w=20&margin-h=20" />
+   <img src="https://octodex.github.com/images/carlostocat.gif" alt="Carlostocat" width="25%" height="200">
+   <img src="https://github-profile-trophy.vercel.app/?username=Albertinesilva&theme=dracula&row=1&no-bg=true&column=7&margin-w=20&margin-h=20" />
 </p>
 
 ---

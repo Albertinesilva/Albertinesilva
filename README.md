@@ -27,15 +27,6 @@
 </p>
 
 ---
-<div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
-  <img src="assets/img/neurocatsFULL.png" alt="Gatos Estudando" width="45%" height="280">
-  
-  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="45px">
-  
-  <img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" width="45%" height="280">
-</div>
-
----
 ## Main skills: 
 
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
@@ -70,13 +61,22 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
 ---
+<div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
+  <img src="assets/img/neurocatsFULL.png" alt="Gatos Estudando" width="45%" height="280">
+  
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="45px">
+  
+  <img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" width="45%" height="280">
+</div>
+
+---
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="815"/>
 </div>
 
 ---
 <div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
-  <img src="assets/img/tentocats.jpg" alt="Gatos Estudando" width="45%" height="280px">
+   <img src="assets/img/tentocats.jpg" alt="Gatos Estudando" width="45%" height="280px">
 
   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="45px">
 
@@ -109,6 +109,16 @@
 <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/pacman-contribution-graph-dark.svg">
 
 ---
+<div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
+   <img src="https://octodex.github.com/images/maxtocat.gif" alt="NUX Octodex" width="40%" height="250px">
+
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="45px">
+
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Daftpunktocat Thomas" width="40%" height="250px">
+</div>
+
+---
+
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 <p align="center">
   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="45px">

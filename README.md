@@ -80,7 +80,7 @@
 
   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="45px">
 
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Thinking GIF" swidth="45%" height="280">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Thinking GIF" width="45%" height="280">
 </div>
 
 ---
@@ -102,7 +102,7 @@
 
   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="45px">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer" style="width: 100%; max-width: 400px; height: auto;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer" width="45%" height="360">
 </div>
 
 ---
@@ -141,6 +141,9 @@
 }
 
 ```
+<p align="center">
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50px">
+</p>
 
 <p align="center">
 <picture>

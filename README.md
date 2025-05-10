@@ -24,8 +24,24 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Albertinesilva&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Albertinesilva&theme=dracula&row=1&no-bg=true&column=7&margin-w=20&margin-h=20" />
-  <p align="center"><img src="assets/img/neurocatsFULL.ico" alt="Gatos Estudando" width="20%" height="200"></p> 
 </p>
+
+---
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="assets/img/neurocatsFULL.ico" alt="Gatos Estudando" width="100%" height="280">
+    </td>
+    <td>
+      &nbsp;&nbsp;
+      <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
+    </td>
+    <td>
+      <img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" width="100%" height="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 ## Main skills: 

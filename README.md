@@ -25,8 +25,8 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Albertinesilva&theme=dracula&row=1&no-bg=true&column=7&margin-w=20&margin-h=20" />
+  <p align="center"><img src="neurocatsFULLCopia.PNG" alt="Gatos Estudando" width="30%" height="300"></p> 
 </p>
-<p align="center"><img src="neurocatsFULLCopia.PNG" alt="Gatos Estudando"></p> 
 
 ---
 ## Main skills: 

@@ -66,7 +66,6 @@
 <div align="center">
       <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="815"/>
-      <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
 </div>
 
 ---
@@ -78,14 +77,13 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" height="160px" />
   &nbsp;&nbsp;
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Thinking GIF" height="160px" />
-  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
 </p>
 
 ---
 
 <!-- <img alt="Snake animation" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake.svg"> -->
 
-<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px"> ![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake.svg) <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px"> 
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px"> ![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake.svg)
 
 
 ---

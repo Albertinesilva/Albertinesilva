@@ -24,7 +24,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Albertinesilva&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Albertinesilva&theme=dracula&row=1&no-bg=true&column=7&margin-w=20&margin-h=20" />
-  <img src="https://octodex.github.com/images/carlostocat.gif" alt="Carlostocat" width="100" height="110">
+  <img src="https://octodex.github.com/images/carlostocat.gif" alt="Carlostocat" width="90" height="110">
 </p>
 
 ---
@@ -92,6 +92,16 @@
 ---
 <!--   profile-green-animate -->  
 ![Profile-3d](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Daftpunktocat" width="45%" height="280">
+  
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="45px">
+  
+  <img src="https://octodex.github.com/images/mummytocat.gif" alt="Mummytocat" width="45%" height="280">
+</div>
 
 ---
 <!-- dark snake -->

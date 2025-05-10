@@ -165,7 +165,7 @@
 
 ---
 <div align="center">
-  <br><p align="centre"><b> <img src="assets/img/securitocat.PNG" width="50" />  Visitors Count</b></p>  
+  <br><p align="centre"><b> <img src="assets/img/securitocat.png" width="50" />  Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Albertinesilva}/count.svg" /></p> 
 </div>
 

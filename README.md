@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Albertinesilva&theme=dracula&row=1&no-bg=true&column=7&margin-w=20&margin-h=20" />
-  <p align="center"><img src="neurocatsFULL.png" alt="Gatos Estudando" width="80%" height="700"></p> 
+  <p align="center"><img src="neurocatsFULL.png" alt="Gatos Estudando" width="90%" height="500"></p> 
 </p>
 
 ---

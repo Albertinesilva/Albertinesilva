@@ -31,7 +31,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="assets/img/neurocatsFULL.ico" alt="Gatos Estudando" width="100%" height="280">
+      <img src="assets/img/neurocatsFULL.png" alt="Gatos Estudando" width="100%" height="280">
     </td>
     <td>
       &nbsp;&nbsp;
@@ -81,20 +81,25 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="815"/>
 </div>
-<p align="center">
-  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
-</p>
 
-<p align="center">
-  <img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" height="160px" />
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" height="160px" />
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Thinking GIF" height="160px" />
-</p>
-<p align="center">
-  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
-</p>
+---
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="assets/img/neurocatsFULL.png" alt="Gatos Estudando" width="100%" height="280">
+    </td>
+    <td>
+      &nbsp;&nbsp;
+      <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
+    </td>
+    <td>
+       <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Thinking GIF" width="100%" height="100%" />
+    </td>
+  </tr>
+</table>
+
+---
 
 <!-- <img alt="Snake animation" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake.svg"> -->
 ![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake.svg)
@@ -110,25 +115,29 @@
 
 <!-- dark snake -->
 ![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake-dark.svg)
-<p align="center">
-  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
-</p> 
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
-  <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)">
-</picture>
-</p>
-<p align="center">
-  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
-</p>
+---
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="assets/img/neurocatsFULL.png" alt="Gatos Estudando" width="100%" height="280">
+    </td>
+    <td>
+      &nbsp;&nbsp;
+      <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
+    </td>
+    <td>
+       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer" width="100%" height="100%" />
+    </td>
+  </tr>
+</table>
+
+---
 
 <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/pacman-contribution-graph-dark.svg">
-<p align="center">
-  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
-</p>
+
+---
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 <p align="center">
@@ -162,6 +171,14 @@
 }
 
 ```
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
+  <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)">
+</picture>
+</p>
 <p align="center">
   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50px">
 </p>

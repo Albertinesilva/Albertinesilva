@@ -62,22 +62,21 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
 ---
-
 <div align="center">
-      <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="815"/>
 </div>
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
 
 ---
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
   <img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" height="160px" />
   &nbsp;&nbsp;
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" height="160px" />
   &nbsp;&nbsp;
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Thinking GIF" height="160px" />
 </p>
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
 
 ---
 
@@ -89,13 +88,13 @@
 ---
 <!--   profile-green-animate -->  
 ![Profile-3d](./profile-3d-contrib/profile-night-rainbow.svg)<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px"> 
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
 
 ---
 
 <!-- dark snake -->
 
 ![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake-dark.svg)
-
 <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px"> 
 
 ---

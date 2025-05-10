@@ -98,7 +98,7 @@
 
 ---
 <div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
-  <img src="assets/img/droidtocat.png" alt="Gatos Estudando" width="40%" height="280px">
+  <img src="assets/img/droidtocat.png" alt="Gatos Estudando" width="45%" height="280px">
 
   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="50">
 

@@ -29,10 +29,9 @@
 
 ---
 
-<p align="center">
-  <img src="neurocatsFULLCopia.PNG" alt="Gatos Estudando" width="30%" height="350">
-</p>
-<h2><strong>Main skills:</strong></h2>
+<p align="center"><img src="neurocatsFULLCopia.PNG" alt="Gatos Estudando" width="30%" height="350"></p> 
+
+## Main skills: 
 
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/-c%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=blue&labelColor=0D1117)&nbsp;
@@ -41,7 +40,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=green&labelColor=0D1117)&nbsp;
 
-### Tools:
+## Tools:
 
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&labelColor=0D1117)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=4C4295&labelColor=0D1117)&nbsp;
@@ -50,13 +49,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=blue&labelColor=0D1117)&nbsp;
 
-### Other Knowledge:
+
+## Other Knowledge:
 
 ![C#](https://img.shields.io/badge/-c%23-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&logoColor=red&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
-### Studying in this moment:
+## Studying in this moment:
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;

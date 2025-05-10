@@ -32,7 +32,7 @@
   
   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="45px">
   
-  <img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" style="width: 100%; max-width: 400px; height: auto;">
+  <img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" width="45%" height="280">
 </div>
 
 ---

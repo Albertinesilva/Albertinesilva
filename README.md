@@ -65,9 +65,10 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="815"/>
 </div>
-<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
+<p align="center">
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
+</p>
 
----
 <p align="center">
   <img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" height="160px" />
   &nbsp;&nbsp;
@@ -75,24 +76,28 @@
   &nbsp;&nbsp;
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Thinking GIF" height="160px" />
 </p>
-<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
+<p align="center">
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
+</p>
 
----
 <!-- <img alt="Snake animation" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake.svg"> -->
 ![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake.svg)
-<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px"> 
+<p align="center">
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
+</p>
 
----
 <!--   profile-green-animate -->  
 ![Profile-3d](./profile-3d-contrib/profile-night-rainbow.svg)
-<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
+<p align="center">
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
+</p>
 
----
 <!-- dark snake -->
 ![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake-dark.svg)
-<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px"> 
+<p align="center">
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
+</p> 
 
----
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
@@ -100,15 +105,19 @@
   <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)">
 </picture>
 </p>
-<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
+<p align="center">
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
+</p>
 
----
 <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/pacman-contribution-graph-dark.svg">
-<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px"> 
+<p align="center">
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
+</p>
 
----
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
-<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px"> 
+<p align="center">
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
+</p>
 
 ---
 <!-- Brazil - My Home-->
@@ -137,7 +146,9 @@
 }
 
 ```
-<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px"> 
+<p align="center">
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50px">
+</p>
 
 ---
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5ldGlrdDR2dDlyaTI3eHpueGNsbTl5cTRoazJ2N2p2MTJ6ZHQ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AsuCf15CIj0Va/giphy.gif" width="150" alt="Naruto hokage" />

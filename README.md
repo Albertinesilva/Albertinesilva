@@ -98,11 +98,11 @@
 
 ---
 <div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
-  <img src="assets/img/droidtocat.png" alt="Gatos Estudando" width="45%" height="360px">
+  <img src="assets/img/droidtocat.png" alt="Gatos Estudando" width="40%" height="280px">
 
-  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="45px">
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="50">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer" width="45%" height="360">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer" width="45%" height="280">
 </div>
 
 ---
@@ -165,7 +165,7 @@
 
 ---
 <div align="center">
-  <br><p align="centre"><b> <img src="assets/img/securitocat.ico" width="50" />  Visitors Count</b></p>  
+  <br><p align="centre"><b> <img src="assets/img/securitocat.PNG" width="50" />  Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Albertinesilva}/count.svg" /></p> 
 </div>
 

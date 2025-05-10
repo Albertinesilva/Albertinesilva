@@ -28,20 +28,13 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="assets/img/neurocatsFULL.png" alt="Gatos Estudando" width="400px" height="280">
-    </td>
-    <td>
-      &nbsp;&nbsp;
-      <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
-    </td>
-    <td>
-      <img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" width="100%" height="100%">
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
+  <img src="assets/img/neurocatsFULL.png" alt="Gatos Estudando" width="400px" height="280">
+  
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="30px">
+  
+  <img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" style="width: 100%; max-width: 400px; height: auto;">
+</div>
 
 ---
 ## Main skills: 

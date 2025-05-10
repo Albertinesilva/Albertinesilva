@@ -87,7 +87,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="assets/img/tentocats.jpg" alt="Gatos Estudando" width="100%" height="280">
+      <img src="assets/img/tentocats.jpg" alt="Gatos Estudando" width="100%" height="350">
     </td>
     <td>
       &nbsp;&nbsp;
@@ -121,14 +121,14 @@
 <table align="center">
   <tr>
     <td>
-      <img src="assets/img/droidtocat.png" alt="Gatos Estudando" width="100%" height="280">
+      <img src="assets/img/droidtocat.png" alt="Gatos Estudando" width="150%" height="380">
     </td>
     <td>
       &nbsp;&nbsp;
       <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30px">
     </td>
     <td>
-       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer" width="100%" height="100%" />
+       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer" width="100%" height="110%" />
     </td>
   </tr>
 </table>

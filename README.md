@@ -1,4 +1,4 @@
-<div align="center"> <img src="securityknightocat.PNG" width="70">
+<div align="center"> <img src="assets/img/securityknightocat.PNG" width="70">
   
 |[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-backend-java-spring-boot/) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com) |  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertinesilva.17@gmail.com) | [![Tech-Stack](http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge&logo=stackshare&logoColor=white)](https://stackshare.io/20191tadssaj0026/my-stack) | [![Recommended Books](https://img.shields.io/badge/Recommended_Books-%230A66C2?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/Albertinesilva/livros-indicacao)
 |---|---|---|---|---|
@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Albertinesilva&theme=dracula&row=1&no-bg=true&column=7&margin-w=20&margin-h=20" />
-  <p align="center"><img src="neurocatsFULL.png" alt="Gatos Estudando" width="26%" height="180"></p> 
+  <p align="center"><img src="assets/img/neurocatsFULLCopia.PNG" alt="Gatos Estudando" width="30%" height="300"></p> 
 </p>
 
 ---
@@ -171,7 +171,7 @@
 ---
 
 <div align="center">
-  <br><p align="centre"><b> <img src="securitocat.png" width="50" />  Visitors Count</b></p>  
+  <br><p align="centre"><b> <img src="assets/img/securitocat.png" width="50" />  Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Albertinesilva}/count.svg" /></p> 
 </div>
 

@@ -80,7 +80,7 @@
 
   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="45px">
 
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Thinking GIF" style="width: 100%; max-width: 400px; height: auto;">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Thinking GIF" swidth="45%" height="280">
 </div>
 
 ---

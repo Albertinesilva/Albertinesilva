@@ -121,11 +121,11 @@
 
 ---
 <div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
-   <img src="https://octodex.github.com/images/maxtocat.gif" alt="NUX Octodex" width="40%" height="250px">
+   <img src="https://octodex.github.com/images/maxtocat.gif" alt="NUX Octodex" width="45%" height="280px">
 
   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="45px">
 
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Daftpunktocat Thomas" width="40%" height="250px">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Daftpunktocat Thomas" width="45%" height="280px">
 </div>
 
 ---

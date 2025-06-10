@@ -152,15 +152,14 @@
         "type": "Polygon",
         "coordinates": [
           [
-            [-73.99, 5.27],  
-            [-34.73, -33.77]  
+            [-40.0, -13.0],
+            [-37.0, -13.0]
           ]
         ]
       }
     }
   ]
 }
-
 ```
 <p align="center">
   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50px">

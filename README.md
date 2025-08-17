@@ -185,8 +185,9 @@
 
 ---
 <div align="center">
-  <br><p align="centre"><b> <img src="assets/img/securitocat.png" width="50" />  Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Albertinesilva}/count.svg" /></p> 
+  <br><p align="centre"><b> <img src="assets/img/securitocat.png" width="50" />  Visitors Count</b></p>
+  
+  ![](https://count.getloli.com/get/@Albertinesilva.github.readme)
 </div>
 
 <!--

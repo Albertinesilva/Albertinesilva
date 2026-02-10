@@ -29,7 +29,7 @@ jobs:
 
           plugin_achievements: yes
 
-          plugin_achievements_threshold: 0 # (show locked achievements as well)
+          plugin_achievements_threshold: x # (show locked achievements as well)
           plugin_achievements_display: detailed # detailed achievements info
 
           plugin_calendar: yes # displays yearly activity

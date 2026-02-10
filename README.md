@@ -138,6 +138,7 @@
 ---
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
+
 <p align="center">
   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="45px">
 </p>

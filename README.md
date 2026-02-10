@@ -14,8 +14,8 @@
 
 <!--<div align="center">
   <a href="https://github.com/Albertinesilva">
-  <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=Albertinesilva&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"         
-    alt="Albert Silva de Jesus github stats" /> 
+  <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=Albertinesilva&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"
+    alt="Albert Silva de Jesus github stats" />
   <img width="50%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertinesilva&layout=compact&langs_count=8&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
   </a>
    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertinesilva&layout=compact&langs_count=7&theme=dracula"/>
@@ -29,13 +29,15 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Albertinesilva&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="center">
    <img src="https://octodex.github.com/images/carlostocat.gif" alt="Carlostocat" width="25%" height="200">
    <img src="https://github-profile-trophy.vercel.app/?username=Albertinesilva&theme=dracula&row=1&no-bg=true&column=7&margin-w=20&margin-h=20" />
 </p>
 
 ---
-## Main skills: 
+
+## Main skills:
 
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/-c%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=blue&labelColor=0D1117)&nbsp;
@@ -53,7 +55,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=blue&labelColor=0D1117)&nbsp;
 
-
 ## Other Knowledge:
 
 ![C#](https://img.shields.io/badge/-c%23-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
@@ -69,6 +70,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
 ---
+
 <div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
   <img src="assets/img/neurocatsFULL.png" alt="Gatos Estudando" width="45%" height="280">
   
@@ -78,11 +80,13 @@
 </div>
 
 ---
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="815"/>
 </div>
 
 ---
+
 <div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
    <img src="assets/img/tentocats.jpg" alt="Gatos Estudando" width="45%" height="280px">
 
@@ -94,10 +98,13 @@
 ---
 
 <!-- <img alt="Snake animation" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake.svg"> -->
+
 ![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake.svg)
 
 ---
-<!--   profile-green-animate -->  
+
+<!--   profile-green-animate -->
+
 ![Profile-3d](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
@@ -111,10 +118,13 @@
 </div>
 
 ---
+
 <!-- dark snake -->
+
 ![Albertinesilva's github activity graph](https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/github-contribution-grid-snake-dark.svg)
 
 ---
+
 <div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
   <img src="assets/img/droidtocat.png" alt="Gatos Estudando" width="45%" height="280px">
 
@@ -124,9 +134,11 @@
 </div>
 
 ---
+
 <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/pacman-contribution-graph-dark.svg">
 
 ---
+
 <div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
    <img src="https://octodex.github.com/images/maxtocat.gif" alt="NUX Octodex" width="45%" height="280px">
 
@@ -144,6 +156,7 @@
 </p>
 
 ---
+
 <!-- Brazil - My Home-->
 
 ```geojson
@@ -160,8 +173,14 @@
         "type": "Polygon",
         "coordinates": [
           [
-            [-40.0, -13.0],
-            [-37.0, -13.0]
+            [
+              -40,
+              -13
+            ],
+            [
+              -37,
+              -13
+            ]
           ]
         ]
       }
@@ -169,6 +188,7 @@
   ]
 }
 ```
+
 <p align="center">
   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50px">
 </p>
@@ -185,13 +205,15 @@
 </p>
 
 ---
+
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5ldGlrdDR2dDlyaTI3eHpueGNsbTl5cTRoazJ2N2p2MTJ6ZHQ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AsuCf15CIj0Va/giphy.gif" width="150" alt="Naruto hokage" />
 
 > _"Enquanto você estiver com vontade de correr atrás dos seus sonhos... ninguém poderá te parar."_ 🔥  
-> — 🗡️**Naruto Uzumaki** 
-<br>
+> — 🗡️**Naruto Uzumaki**
+> <br>
 
 ---
+
 <div align="center">
   <br><p align="centre"><b> <img src="assets/img/securitocat.png" width="50" />  Visitors Count</b></p>
   

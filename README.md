@@ -1,43 +1,33 @@
-<div align="center"> <img src="assets/img/securityknightocat.ico" width="70">
+<div align="center">
   
-|[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-backend-java-spring-boot/) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com) |  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertinesilva.17@gmail.com) | [![Tech-Stack](http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge&logo=stackshare&logoColor=white)](https://stackshare.io/20191tadssaj0026/my-stack) | [![Recommended Books](https://img.shields.io/badge/Recommended_Books-%230A66C2?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/Albertinesilva/livros-indicacao)
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-backend-java-spring-boot/) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com) |  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertinesilva.17@gmail.com) | [![Tech-Stack](http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge&logo=stackshare&logoColor=white)](https://stackshare.io/20191tadssaj0026/my-stack) | [![Recommended Books](https://img.shields.io/badge/Recommended_Books-%230A66C2?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/Albertinesilva/livros-indicacao)
 |---|---|---|---|---|
 
-</div>                 
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Albert+Silva&fontSize=30&fontColor=fff&animation=twinkling&fontAligni=35"/>
 
 <div align="center">
-   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="65" height="65"/> <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="65" height="65"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Albert+Silva+de+Jesus;I'm+43+years+old;I+am+from+Brasil,+BA;I+study+analysis+and+systems+development+at+IFBA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<!--<div align="center">
-  <a href="https://github.com/Albertinesilva">
-  <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=Albertinesilva&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"
-    alt="Albert Silva de Jesus github stats" />
-  <img width="50%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertinesilva&layout=compact&langs_count=8&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
-  </a>
-   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertinesilva&layout=compact&langs_count=7&theme=dracula"/>
-</div> -->
-
 <div align="center">
   <a href="https://github.com/Albertinesilva">
-  <img width="49%" height="210px" src="https://github-readme-stats-git-master-marcus-projects-5c71c969.vercel.app/api?username=Albertinesilva&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"         
-    alt="Albert Silva de Jesus github stats"/>
-  <img width="50%" height="210px" src="https://github-readme-stats-git-master-marcus-projects-5c71c969.vercel.app/api/top-langs/?username=Albertinesilva&layout=compact&langs_count=8&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+  <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=Albertinesilva&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"         
+    alt="Albert Silva de Jesus github stats" /> 
+  <img width="50%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertinesilva&layout=compact&langs_count=8&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+  </a>
+  <!-- <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertinesilva&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Albertinesilva&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-   <img src="https://octodex.github.com/images/carlostocat.gif" alt="Carlostocat" width="25%" height="200">
-   <img src="https://github-profile-trophy.vercel.app/?username=Albertinesilva&theme=dracula&row=1&no-bg=true&column=7&margin-w=20&margin-h=20" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Albertinesilva&theme=dracula&row=1&no-bg=true&column=7&margin-w=20&margin-h=20" />
 </p>
 
----
-
-## Main skills:
+### Main skills:
 
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/-c%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=blue&labelColor=0D1117)&nbsp;
@@ -46,7 +36,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=green&labelColor=0D1117)&nbsp;
 
-## Tools:
+### Tools:
 
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&labelColor=0D1117)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=4C4295&labelColor=0D1117)&nbsp;
@@ -55,13 +45,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=blue&labelColor=0D1117)&nbsp;
 
-## Other Knowledge:
+### Other Knowledge:
 
 ![C#](https://img.shields.io/badge/-c%23-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&logoColor=red&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
-## Studying in this moment:
+### Studying in this moment:
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -71,28 +61,8 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
-  <img src="assets/img/neurocatsFULL.png" alt="Gatos Estudando" width="45%" height="280">
-  
-  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="45px">
-  
-  <img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" width="45%" height="280">
-</div>
-
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="815"/>
-</div>
-
----
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
-   <img src="assets/img/tentocats.jpg" alt="Gatos Estudando" width="45%" height="280px">
-
-  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="45px">
-
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Thinking GIF" width="45%" height="280">
 </div>
 
 ---
@@ -105,17 +75,7 @@
 
 <!--   profile-green-animate -->
 
-![Profile-3d](./profile-3d-contrib/profile-night-rainbow.svg)
-
----
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Daftpunktocat" width="45%" height="280">
-  
-  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="45px">
-  
-  <img src="https://octodex.github.com/images/mummytocat.gif" alt="Mummytocat" width="45%" height="280">
-</div>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
@@ -125,35 +85,11 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
-  <img src="assets/img/droidtocat.png" alt="Gatos Estudando" width="45%" height="280px">
-
-  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="50">
-
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer" width="45%" height="280">
-</div>
-
----
-
 <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Albertinesilva/Albertinesilva/output/pacman-contribution-graph-dark.svg">
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
-   <img src="https://octodex.github.com/images/maxtocat.gif" alt="NUX Octodex" width="45%" height="280px">
-
-  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="45px">
-
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Daftpunktocat Thomas" width="45%" height="280px">
-</div>
-
----
-
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="45px">
-</p>
 
 ---
 
@@ -174,12 +110,12 @@
         "coordinates": [
           [
             [
-              -40,
-              -13
+              -73.99,
+              5.27
             ],
             [
-              -37,
-              -13
+              -34.73,
+              -33.77
             ]
           ]
         ]
@@ -188,21 +124,6 @@
   ]
 }
 ```
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50px">
-</p>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
-  <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)">
-</picture>
-</p>
-<p align="center">
-  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50px">
-</p>
 
 ---
 
@@ -215,9 +136,8 @@
 ---
 
 <div align="center">
-  <br><p align="centre"><b> <img src="assets/img/securitocat.png" width="50" />  Visitors Count</b></p>
-  
-  ![](https://count.getloli.com/get/@Albertinesilva.github.readme)
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Albertinesilva}/count.svg" /></p> 
 </div>
 
 <!--

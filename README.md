@@ -10,7 +10,7 @@
    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="65" height="65"/> <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="40" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Albert+Silva+de+Jesus;I'm+43+years+old;I+am+from+Brasil,+BA;I+study+analysis+and+systems+development+at+IFBA;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1000&color=00BFBF&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Albert+Silva+de+Jesus;Java+Developer+%7C+Back-end+focused;Building+Applications+with+Java+%26+Spring+Boot;Systems+Analysis+%26+Development+Graduate+(IFBA);Software+Residency+at+CEPEDI;Creator+of+the+CAD-MOTOTAXISTA+System;Expanding+to+Full-Stack,+DevOps+%26+Testing;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
 <!--<div align="center">
   <a href="https://github.com/Albertinesilva">

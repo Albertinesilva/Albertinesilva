@@ -12,21 +12,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1000&color=00BFBF&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Albert+Silva+de+Jesus;Java+Developer+%7C+Back-end+focused;Building+Applications+with+Java+%26+Spring+Boot;Systems+Analysis+%26+Development+Graduate+(IFBA);Software+Residency+at+CEPEDI;Creator+of+the+CAD-MOTOTAXISTA+System;Expanding+to+Full-Stack,+DevOps+%26+Testing;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
-<!--<div align="center">
+<div align="center">
   <a href="https://github.com/Albertinesilva">
   <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=Albertinesilva&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"
     alt="Albert Silva de Jesus github stats" />
   <img width="50%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertinesilva&layout=compact&langs_count=8&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
   </a>
-   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertinesilva&layout=compact&langs_count=7&theme=dracula"/>
-</div> -->
+   <!--<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertinesilva&layout=compact&langs_count=7&theme=dracula"/>-->
+</div>
 
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/Albertinesilva">
   <img width="49%" height="210px" src="https://github-readme-stats-git-master-marcus-projects-5c71c969.vercel.app/api?username=Albertinesilva&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"         
     alt="Albert Silva de Jesus github stats"/>
   <img width="50%" height="210px" src="https://github-readme-stats-git-master-marcus-projects-5c71c969.vercel.app/api/top-langs/?username=Albertinesilva&layout=compact&langs_count=8&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
-</div>
+</div>-->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Albertinesilva&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

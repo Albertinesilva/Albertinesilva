@@ -3,11 +3,12 @@
 |[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-backend-java-spring-boot/) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com) |  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertinesilva.17@gmail.com?subject=Contato%20profissional&body=Olá%20Albert,%0D%0A%0D%0AEncontrei%20seu%20perfil/GitHub%20e%20gostaria%20de%20entrar%20em%20contato.%0D%0A%0D%0APoderia%20me%20retornar%20quando%20possível?%0D%0A%0D%0AAtenciosamente,) | [![Tech-Stack](http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge&logo=stackshare&logoColor=white)](https://stackshare.io/20191tadssaj0026/my-stack) | [![Recommended Books](https://img.shields.io/badge/Recommended_Books-%230A66C2?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/Albertinesilva/livros-indicacao)
 |---|---|---|---|---|
 
-</div>                 
+</div> 
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Albert+Silva&fontSize=30&fontColor=fff&animation=twinkling&fontAligni=35"/>
 
 <div align="center">
-   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="65" height="65"/> <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="40" />
+   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="65" height="65"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1000&color=00BFBF&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Albert+Silva+de+Jesus;Java+Developer+%7C+Back-end+focused;Building+Applications+with+Java+%26+Spring+Boot;Systems+Analysis+%26+Development+Graduate+(IFBA);Software+Residency+at+CEPEDI;Creator+of+the+CAD-MOTOTAXISTA+System;Expanding+to+Full-Stack,+DevOps+%26+Testing;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
@@ -19,6 +20,9 @@
   <img width="50%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertinesilva&layout=compact&langs_count=8&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
   </a>
    <!--<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertinesilva&layout=compact&langs_count=7&theme=dracula"/>-->
+</div>
+<div align="center">
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="40" />
 </div>
 
 <!--<div align="center">
